@@ -1,0 +1,37 @@
+            
+                    <footer class="page-footer">
+                  <div class="page-footer__inner">
+                        <nav class="nav page-footer__nav">
+                          <a class="page-footer__nav-link page-footer__nav-link_selected pagefootertext">Home</a>
+                          <a class="page-footer__nav-link pagefootertext" href="aboutus.html">About Us</a>
+                          <a class="page-footer__nav-link pagefootertext"  href="events.html">Events</a>
+                          <a class="page-footer__nav-link pagefootertext" href="donate.html">Donate</a>
+                          <a class="page-footer__nav-link pagefootertext" href="contactus.html">Contact Us</a>
+                        </nav>
+              
+
+                  <div class="widgets">
+                  <div class="widget widget_social">
+                            <h3 class="widget__title">Follow Us</h3>
+                            <a href="#"><img src="/Users/thats/Desktop/charity_responsive-template/build/static/images/soc-icon-sprite.png"></a>
+                  </div>
+
+                  <div class="widget widget_feed">
+                    <h3 class="widget__title">News letter</h3>
+                    <form class="subscribe-form" action="#" method="post">
+                      <input id="email-subscribe" type="text" name="email" value="Enter your email">
+                      <label for="#email-subscribe"></label>
+                      <input type="submit" value="Subscribe">
+                    </form>
+                        
+                  <div class="widget widget_contact">
+                            <h3 class="widget__title">Contact Us</h3>
+                            <p class="widget__text">ARCHBISHOP JOHN BAPTIST ODAMA CARE CENTRE KITGUM</p>
+                            <p class="widget__text">P.O.BOX 290, KITGUM- Uganda</p>
+                            <p class="widget__text">+256 782925873/+256 759079570</p>
+                            <a href="mailto:ajbocck1998nsp@gmail.com">ajbocck1998nsp@gmail.com</a>
+                   </div>
+                    
+                        <div class="copyright">AJBOCCK Organization<br>Designed by SpaceWonderIT</div>
+                      </footer>
+                      
